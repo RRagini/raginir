@@ -1,0 +1,6 @@
+create table employees(id number(10),
+name varchar2(20),
+email varchar2(20),
+technology varchar2(20));
+
+select * from employees;
